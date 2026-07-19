@@ -1,5 +1,5 @@
 📊 **Retail Business Intelligence Dashboard**
-
+![Executive Dashboard](Executive_Dashboard.png)
 📌 **Project Overview**
 This project is a comprehensive 7-page Power BI dashboard developed to analyze retail business performance. It provides interactive visualizations and business insights on sales, customers, products, regions, delivery, and order performance.
 
